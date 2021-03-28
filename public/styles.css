@@ -1,0 +1,23 @@
+body{
+  background-image: url(fridge.jpeg);
+  color: white;
+  
+}
+h3{
+  margin-top: 40px;
+}
+.hidden{
+  display: none;
+}
+.container{
+  text-align: center;
+  border: white 3px solid;
+  float: left;
+  width: 25%;
+  height: 500px;
+}
+.food{
+  font-size: 140%;
+  list-style: none;
+}
+
